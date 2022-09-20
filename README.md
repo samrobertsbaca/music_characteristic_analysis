@@ -46,4 +46,4 @@ has?
 * [Paper](https://github.com/samrobertsbaca/music_characteristic_analysis/blob/main/Music_Characteristic_Analysis_Paper.pdf)
 
 ## Contact
-* [samrobertsbaca@gmail.com](mailto:samrobertsbaca@gmail.com).  
+* [samrobertsbaca@gmail.com](mailto:samrobertsbaca@gmail.com)
